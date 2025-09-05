@@ -5,32 +5,32 @@
 I'm a Software Developer and Domestic Outsourcing Consultant focused on delivering custom software solutions and connecting local clients with skilled professionals. I ensure efficient project management, quality results, and timely delivery. Committed to helping businesses grow through technology, I provide reliable and tailored development and outsourcing services to meet diverse client needs.
 
 <p align="left">
-    <a href="https://www.youtube.com/@litansarkar95?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIrjsaVXTiZCGB14kf1Uh_Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+  <a href="https://www.youtube.com/@litansarkar95">
+    <img 
+        alt="Subscribers" 
+        title="Subscribe to my YouTube channel" 
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIrjsaVXTiZCGB14kf1Uh_Q?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    />
+</a>
     <a href="https://www.youtube.com/@litansarkar95">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="YouTube Views" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCIrjsaVXTiZCGB14kf1Uh_Q?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/litansarkar95?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/litansarkar95?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total Stars" 
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/litansarkar95?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=star"
         />
     </a>
     <a href="https://github.com/litansarkar95?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/litansarkar95?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/litansarkar95?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=github&logoColor=white"
         />
     </a>
 </p>
