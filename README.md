@@ -146,10 +146,10 @@ I'm a Software Developer and Domestic Outsourcing Consultant focused on deliveri
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br>
+
 <br><br>
-### 📊 Statistics
-<br>
+## 📊 Statistics
+
 
 <p>
   <img 
@@ -157,14 +157,13 @@ I'm a Software Developer and Domestic Outsourcing Consultant focused on deliveri
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=litansarkar95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=litansarkar95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=litansarkar95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=litansarkar95&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10&locale=en&width=200"
   />
 
 </p>
