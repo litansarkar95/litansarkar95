@@ -146,9 +146,10 @@ I'm a Software Developer and Domestic Outsourcing Consultant focused on deliveri
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br>
+<br><br>
 ### 📊 Statistics
+<br>
 
 <p>
   <img 
